@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "N4desafio.Infrastructure/1.0.0": {
+        "dependencies": {
+          "N4desafio.Communication": "1.0.0"
+        },
+        "runtime": {
+          "N4desafio.Infrastructure.dll": {}
+        }
+      },
+      "N4desafio.Communication/1.0.0": {
+        "runtime": {
+          "N4desafio.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N4desafio.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "N4desafio.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

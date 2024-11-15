@@ -1,0 +1,11 @@
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\bin\Debug\net8.0\N4desafio.Communication.deps.json
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\bin\Debug\net8.0\N4desafio.Communication.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\bin\Debug\net8.0\N4desafio.Communication.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\N4desafio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\N4desafio.Communication.AssemblyInfoInputs.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\N4desafio.Communication.AssemblyInfo.cs
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\N4desafio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\N4desafio.Communication.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\refint\N4desafio.Communication.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\N4desafio.Communication.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Communication\obj\Debug\net8.0\ref\N4desafio.Communication.dll

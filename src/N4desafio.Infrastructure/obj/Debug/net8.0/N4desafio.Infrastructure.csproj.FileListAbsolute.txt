@@ -1,0 +1,15 @@
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\bin\Debug\net8.0\N4desafio.Infrastructure.deps.json
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\bin\Debug\net8.0\N4desafio.Infrastructure.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\bin\Debug\net8.0\N4desafio.Infrastructure.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\bin\Debug\net8.0\N4desafio.Communication.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\bin\Debug\net8.0\N4desafio.Communication.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.AssemblyInfo.cs
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafi.13A5BF92.Up2Date
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\refint\N4desafio.Infrastructure.dll
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\N4desafio.Infrastructure.pdb
+C:\Users\BrunoQuintiliano\Documents\Projetos\Pessoal\RocketSeat\N4desafio\src\N4desafio.Infrastructure\obj\Debug\net8.0\ref\N4desafio.Infrastructure.dll
